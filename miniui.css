@@ -2706,7 +2706,7 @@ a:hover.mini-calendar-menu-year
     display:inline-block;
     font-size:9pt;
     font-family:Tahoma, Verdana, 宋体;      
-    vertical-align:middle; 
+    +vertical-align:middle; 
 }
 .mini-radiobuttonlist input
 {
